@@ -13,7 +13,9 @@ body {
   background: #1E4258;
   color: white;
 }
+
 /* navbar */
+
 .navbar {
   display: flex;
   background-color: #022140;
@@ -30,14 +32,34 @@ body {
   background-color: #ddd;
   color: black;
 }
+
 /* navbar */
+
 /* main container */
+
 .container {
   display: flex;
   flex-wrap: wrap;
 }
+
 /* side items */
+
+.sidebar {
+  flex: 30%;
+  background-color: #18334C;
+  padding: 20px;
+}
+
+/* main items */
+
+.main {
+  flex: 70%;
+  background-color: #265077;
+  padding: 20px;
+}
+
 /* stacking */
+
 @media (max-width: 700px) {
   .container, .navbar {
     flex-direction: column;
