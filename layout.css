@@ -16,7 +16,7 @@ ul.navbar {
 li a {
   display: block;
   color: black;
-  padding: 8px 16px;
+  padding: 0px 16px 8px 0px;
   text-decoration: none;
 }
 
