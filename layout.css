@@ -2,6 +2,10 @@ body {
   background-color: white;
 }
 
+.container {
+  display: flex;
+}
+
 ul.navbar {
   list-style-type: none;
   margin: 0;
