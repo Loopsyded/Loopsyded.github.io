@@ -61,6 +61,8 @@ body {
 /* side items */
 
 .sidebar {
+  display: flex;
+  flex-direction: column;
   flex: 30%;
   background-color: #18334C;
   padding: 20px;
