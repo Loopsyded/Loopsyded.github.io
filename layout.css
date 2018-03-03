@@ -1,5 +1,5 @@
 body {
-  background-color: #85DCB0;
+  background-color: #5CDB95;
   margin: 0;
 }
 
@@ -10,13 +10,13 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  background: #41B3A3;
+  background: #379683;
   color: white;
 }
 
 .navbar {
   display: flex;
-  background-color: #C38D9E;
+  background-color: #05386B;
 }
 
 .navbar a {
