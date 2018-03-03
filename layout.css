@@ -1,5 +1,5 @@
 body {
-  background-color: #C38D9E;
+  background-color: #85DCB0;
   margin: 0;
 }
 
@@ -16,7 +16,7 @@ body {
 
 .navbar {
   display: flex;
-  background-color: #85DCB0;
+  background-color: #C38D9E;
 }
 
 .navbar a {
