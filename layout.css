@@ -17,10 +17,11 @@ body {
 /* images */
 
 .img {
-    background-color: #0F2131;
-    width: 100%;
-    padding: 20px;
+  background-color: #0F2131;
+  width: 100%;
+  padding: 20px;
 }
+
 /* navbar */
 
 .navbar {
