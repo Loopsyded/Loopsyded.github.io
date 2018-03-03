@@ -13,7 +13,7 @@ body {
   background: #1E4258;
   color: white;
 }
-
+/* Navbar */
 .navbar {
   display: flex;
   background-color: #022140;
@@ -30,7 +30,7 @@ body {
   background-color: #ddd;
   color: black;
 }
-
+/* Navbar */
 .row {
   display: flex;
   flex-wrap: wrap;
