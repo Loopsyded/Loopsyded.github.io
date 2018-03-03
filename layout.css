@@ -24,10 +24,18 @@ body {
 }
 
 #profileimg {
-  border-radius: 50%;
+/*  border-radius: 50%;
   height: 200px;
   width: 200px;
-  align-self: center;
+  align-self: center; */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("img/photo.gif");
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 /* navbar */
