@@ -31,11 +31,12 @@ body {
   color: black;
 }
 /* Navbar */
-.row {
+/* Main Container */
+.container {
   display: flex;
   flex-wrap: wrap;
 }
-
+/* Stacking */
 @media (max-width: 700px) {
   .row, .navbar {
     flex-direction: column;
