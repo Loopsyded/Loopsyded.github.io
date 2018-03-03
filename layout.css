@@ -4,6 +4,13 @@ body {
 
 .container {
   display: flex;
+  flex-wrap: nowrap;
+}
+
+.content {
+  position: relative;
+  margin-left: 160px;
+  flex-grow: 4;
 }
 
 ul.navbar {
