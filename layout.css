@@ -30,3 +30,14 @@ body {
   background-color: #ddd;
   color: black;
 }
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 700px) {
+  .row, .navbar {
+    flex-direction: column;
+  }
+}
