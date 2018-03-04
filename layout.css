@@ -2,7 +2,7 @@ html, body {
   height: 100%;
 }
 
-a:link {
+link > a {
   color: inherit;
 }
 
