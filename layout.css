@@ -14,7 +14,7 @@ body {
 }
 
 .header {
-  padding: 60px;
+  padding: 50px;
   text-align: center;
   background: #1E4258;
   color: #ffffff;
@@ -89,6 +89,8 @@ body {
   padding: 20px;
 }
 
+/* footer */
+
 .footer {
   padding: 20px;
   text-align: center;
@@ -100,6 +102,7 @@ body {
 .links {
   display: flex;
   flex-direction: row;
+  align-content: space-between;
 }
 
 /* stacking */
