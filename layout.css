@@ -102,6 +102,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   padding: 0px 60px 0px 60px;
+  color: #ffffff;
 }
 
 /* stacking */
