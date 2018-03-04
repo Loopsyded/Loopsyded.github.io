@@ -83,6 +83,12 @@ body {
   padding: 20px;
 }
 
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #4C495D;
+}
+
 /* stacking */
 
 @media (max-width: 700px) {
