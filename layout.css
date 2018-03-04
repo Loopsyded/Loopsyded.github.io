@@ -102,7 +102,7 @@ body {
 .links {
   display: flex;
   flex-direction: row;
-  align-content: space-between;
+  justify-content: space-between;
 }
 
 /* stacking */
