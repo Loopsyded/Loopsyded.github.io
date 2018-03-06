@@ -2,6 +2,17 @@ html, body {
   height: 100%;
 }
 
+
+
+.linostyle {
+  list-style-type: none;
+  list-style-position:inside;
+  margin: 20px;
+  padding: 0;
+}
+
+
+
 .links>a {
   color: inherit;
 }
@@ -70,7 +81,7 @@ body {
 .container {
   display: flex;
   flex-wrap: wrap;
-  height: 80%;
+ /* height: 100%; */
 }
 
 /* side items */
@@ -99,7 +110,7 @@ body {
   background: #4C495D;
 }
 
-/* row */
+/* clickable icons in sidebar */
 
 .links {
   display: flex;
