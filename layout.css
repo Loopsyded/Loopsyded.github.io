@@ -185,6 +185,7 @@ body {
 }
 
 .rotate:hover {
+  transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
   display: inline-block;
