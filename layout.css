@@ -188,6 +188,7 @@ body {
   transform: rotate(90deg);
   display: inline-block;
   word-spacing: 5px;
+  z-index: +1;
 }
 
 /*
