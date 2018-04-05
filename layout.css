@@ -2,20 +2,6 @@ html, body {
   height: 100%;
 }
 
-.linostyle {
-  list-style-type: none;
-  list-style-position: inside;
-  margin: 20px;
-  padding: 0;
-}
-
-.dropbutton:before {
-  font-family: FontAwesome;
-  content: '\f105';
-  vertical-align: center;
-  padding-right: 5px;
-}
-
 /* colorless links */
 
 .links>a {
@@ -40,6 +26,11 @@ body {
   text-align: center;
   background: #1E4258;
   color: #ffffff;
+  /*
+  background-image: url(background-img/cubes.svg);
+  background-repeat: repeat round;
+  background-size: contain;
+	*/
 }
 
 /* images */
@@ -182,11 +173,15 @@ body {
 
 /* stacking */
 
+/* main div stacking */
+
 @media (max-width: 700px) {
   .container, .navbar {
     flex-direction: column;
   }
 }
+
+/* dropdown center on flex */
 
 @media (max-width: 700px) {
   .dropdown {
@@ -194,23 +189,37 @@ body {
   }
 }
 
-/* rotating arrow */
+/* img gallery stacking */
 
-/* old animation
-
-.rotate {
-  display: inline-block;
-}
-
-.rotate:hover {
-  -webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility: hidden;
-  backface-visibility: hidden;
-  transform: rotate(90deg);
-  display: inline-block;
-  word-spacing: 5px;
-  z-index: +1;
-}
+/*
+@media screen and (max-width: 400px) {
+  header div { margin: 0; }
+  header { padding: 0; }
 */
+
+/* responsive flex gallery */
+
+.gallery {
+  padding: .5vw;
+  font-size: 0;
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap;
+  -ms-flex-direction: column;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  display: -webkit-box;
+  display: flex;
+}
+
+.gallery div {
+  -webkit-box-flex: auto;
+  -ms-flex: auto;
+  flex: auto;
+  width: 200px;
+  margin: .5vw;
+}
+
+.gallery div img {
+  width: 100%;
+  height: auto;
+}
