@@ -1,4 +1,4 @@
-## Update.2 19.09.16
+## Update 2 19.09.16
  * Changed to dark theme.
  * Need to change code blocks, and highlight colours still. *syntax colour scheme.*
   * Will do next day.
