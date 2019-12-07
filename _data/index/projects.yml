@@ -5,12 +5,15 @@
 
 - name: Starfish Pack
   descr: "I volunteered in a fundraiser for Starfish Pack. My responsibilities involved baking in a team for bake sales and for reaching out to local businesses for monetary support. Starfish Pack is an organization that provides food for children over the weekend throughout the lower mainland. "
-  #image: pong.png
-  #github: https://github.com/renyuanz/leonids
+  image:
+  github:
 
 - name: Interact Club
   descr: "I am responsible for participating in the annual projects being run and providing my assistance in any way needed. The most recent project I've been apart of is raising awareness for the Hippo Roller foundation."
-  #image: pong.png
+  image:
+  github:
 
 -name: Fruits and Veggies Club
  descr: "I am responsible for helping to distribute fruits to each class and helping to wash all the fruits beforehand"
+ image:
+ github: 
