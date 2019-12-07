@@ -1,4 +1,4 @@
-# DNA and Replication - b8 
+# DNA and Replication - b8
 #school/Biology
 - - - -
 ### DNA
@@ -21,14 +21,12 @@
 	* Complementary base pairing leads to A-T, G-C.
 		* A-T is a double hydrogen bond.
 		* G-C is a triple hydrogen bond.
-![](DNA%20and%20Replication%20-%20b8/double-stranded-dna_med.jpg)
-_DNA_
+
 ##### genes and chromosomes
 * Genes are the **units of inheritance** that control particular characteristics or capabilities of an organism. Genes are located on the chromosomes of the cell nucleus and consists of segments of DNA molecules.
 	* A gene consists of a sequence of about 1000 DNA base pairs (though there is considerable variation in this length). About 175,000 genes compose the DNA molecule of a single human chromosome. The genes act in pairs that **dictate traits.**
 		* Genes control cellular chemical reactions by directing the formation of enzymes.
-![](DNA%20and%20Replication%20-%20b8/puDVmAVgSBy1dqrzo38g_cellsToDNA.gif)
-_genes and chromosomes_
+
 ##### replication
 * DNA making individual copies of itself.
 * Inherent in DNA’s structure is a mechanism for reproducing itself. Before a cell can divide, all of the DNA must be duplicated.
@@ -36,8 +34,7 @@ _genes and chromosomes_
 * Each strand of DNA can be viewed as a template: like a potter’s mould, it can produce a “reverse image” copy of itself.
 	* _complementary copy_
 * Each strand of DNA produced has a sequence of bases exactly complementary to the template strand.
-![](DNA%20and%20Replication%20-%20b8/kpQiBwUyI0fZA9ZkK69iFg_b.jpg)
-_replication process_
+
 - - - -
 ##### Chargaff’s Rules
 * Chargaff’s rules state that in any species there is an equal number of A and T bases, and an equal number of G and C cases.
@@ -54,15 +51,14 @@ _replication process_
 * Since half of the original molecule is conserved in each of the new molecules, this ensures that there will be very, very accurate replication of the parent molecule.
 * This process proceeds by the action of several very specific enzymes.
 * Product of replication by DNA molecule is two complete double-stranded DNA molecules, each with one new strand and one original strand that acted as a template for replication.
-![](DNA%20and%20Replication%20-%20b8/replication.v3.jpg)
-_summary of DNA replication_
+
 - - - -
 ##### beginning of replication
 * Replication begins at special sites called **origins of replication**, where the two DNA strands are separated, opening up a replication “bubble.”
 * A eukaryotic chromosome may have hundreds or even thousands of organs of replication.
 * Replication proceeds in both directions from each origin, until the entire molecule is copied.
-###### enzymes 
-* [Enzymes Responsible for Replication - b9](bear://x-callback-url/open-note?id=69DBB961-B4B1-409F-A3AD-CD33F48E8074-11239-000012E364642E73)
+###### enzymes
+
 * At the end of each replication bubble is a **replication fork**, a Y-shaped region where new DNA strands are elongating.
 
 * **Helicases** are enzymes that untwist the double helix at the replication forks.
@@ -87,5 +83,3 @@ _summary of DNA replication_
 * To elongate the other new strand, called the **lagging strand,** DNA polymerase must work in the direction away from the replication work.
 * The lagging strand is synthesized as a serious of segments called **Okazaki fragments,** which are joined together by **DNA ligase.**
 - - - -
-### Enzymes in Replication
-* [Enzymes Responsible for Replication - b9](bear://x-callback-url/open-note?id=69DBB961-B4B1-409F-A3AD-CD33F48E8074-11239-000012E364642E73)

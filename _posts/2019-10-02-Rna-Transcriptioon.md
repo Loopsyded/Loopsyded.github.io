@@ -1,4 +1,4 @@
-# RNA and Transcription - b10 
+# RNA and Transcription - b10
 #school/Biology
 - - - -
 ### RNA
@@ -41,8 +41,7 @@
 * RNA can then leave the nucleus and go into the cytoplasm.
 * The enzyme involved in transcription is known as **RNA polymerase.**
 * This process occurs in the nucleus and, in particular, **dark coloured spots** in the nucleus called **nucleoli** (singular = nucleolus).
-![](RNA%20and%20Transcription%20-%20b10/image.jpg)
-_gene expression steps simplified_
+
 - - - -
 ###### handout example
 G  A C   A  A C  T G  G  A  T   C   G  A C - missense

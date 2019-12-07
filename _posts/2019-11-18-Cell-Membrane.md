@@ -2,7 +2,7 @@
 #school/Biology
 - - - -
 * The cell membrane is the **gateway into the cell,** and must allow needed things such as **nutrients** into the cell without letting them escape. In the same way, it must allow **wastes** to leave the cell.
-* A wide variety of molecules and substances but pass through the cell membrane — large, small, hydrophobic, hydrophilic. Molecules of the same size must be sorted out, and the cell must also be able to get large amounts of molecules in and out when necessary. 
+* A wide variety of molecules and substances but pass through the cell membrane — large, small, hydrophobic, hydrophilic. Molecules of the same size must be sorted out, and the cell must also be able to get large amounts of molecules in and out when necessary.
 * The cell allows things in and out due to the **fluid mosaic model** of the membrane structure.
 - - - -
 ### Fluid Mosaic Model
@@ -14,8 +14,7 @@
 * Is **selectively permeable.**
 	* Some molecules enter the cell, while other molecules are not allowed to enter. The cell membrane can discriminate between different molecules that are the same size.
 * All living cells, whether plant, animal, fungal, protozoan, or bacterial, are surrounded by cell membranes.
-![](The%20Cell%20Membrane%20-%20b17/fluid-mosaic-2d_med.jpeg)
-_phospholipid bilayer_
+
 * Integral proteins can _float_ along the surface and form channels for brining in materials.
 	* Water is brought in through channels called aquaporins.
 * Phospholipids in the plasma membrane can move within the bilayer.

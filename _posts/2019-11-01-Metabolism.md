@@ -13,8 +13,7 @@
 ##### organization of the chemistry of life into metabolic pathways
 * A **metabolic pathway** begins with a specific molecule and ends with a product.
 * Each step is catalyzed by a specific enzyme.
-![](Metabolism%20-%20b15/25558FCE-F6D9-48A8-84BC-DDBE689E2C95.png)
-_simplified metabolic pathway_
+
 - - - -
 * **Catabolic pathways** release energy by breaking down complex molecules into simpler compounds.
 * Cellular respiration, the breakdown of glucose in the presence of oxygen, is an example of a pathway of catabolism.
@@ -49,7 +48,7 @@ _simplified metabolic pathway_
 
 * _ATP _**_adenosine triphosphate_**_ is the cell’s energy shuttle._
 * _ATP is composed of ribose (a sugar), adenine (a nitrogenous base), and three phosphate groups._
-* See [Nucleic Acids - b7](bear://x-callback-url/open-note?id=B1D58451-446E-44FE-AF32-73816CF81E1C-1202-00000082CD1310C9) for review.
+
 - - - -
 ### How ATP Performs Work
 * The three types of cellular work (mechanical, transport, and chemical) are powered by the hydrolysis of ATP.

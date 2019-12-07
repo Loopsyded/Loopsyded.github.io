@@ -1,7 +1,6 @@
 # Genetic Mutations - b13
 #school/Biology
-- - - -
-[Note package](http://nguyenmapleleaf.weebly.com/uploads/3/4/2/7/3427088/notes_-_dna__protein_synthesis_-_student_2000.pdf)
+
 - - - -
 ##### cause
 * During the molecular maneuvering that occurs with DNA replication, if nucleotides are **lost, rearranged, or paired in error,** the resulting changes in instruction of the genetic code could lead to a protein that does **not function properly** when the DNA’s code is translated.
@@ -18,8 +17,7 @@
 	* **Affect only a single gene.** May be caused by a change _substitution, deletions, additions_ in a single nucleotide. The effect on the individual depends on the gene’s role. The sickle-cell anemia is a good example of a genetic disorder caused by a gene mutation.
 2. Chromosomal Mutations
 	* Occur after **chromosomes** are broken _due to exposure to radiation, addictive drugs, pesticides_ and **reform abnormally.** Pieces of chromosomes can be **lost, added, or whole chromosomes** can be lost or added.
-![](Genetic%20Mutations%20-%20b13/772F01AE-0A64-4016-B4E4-A6D8E8B3B5C4.png)
-_chromosome mutations_
+
 - - - -
 * A mutation occurs because of the _alteration in one or more base pairs_ of the DNA molecule, **garbling** the existing genetic code.
 * Sometimes the pattern of normal base pairing is altered, causing the substitution of one base pair for another.
@@ -42,13 +40,6 @@ _chromosome mutations_
 * **Missense mutations** still code for an amino acid, but not necessarily the right amino acid.
 * **Nonsense mutations** change an amino acid codon into a stop codon, nearly always leading to a non-functional protein.
 
-![](Genetic%20Mutations%20-%20b13/D7E2E6DD-6AE9-4994-88FB-B864C4318A9F.png)
-_silent mutation_
-![](Genetic%20Mutations%20-%20b13/D1D52E00-C497-4091-A399-81EF881CC16F.png)
-_missense_
-![](Genetic%20Mutations%20-%20b13/DEDBCFBC-84E4-4564-991A-820361BA9126.png)
-_nonsense_ [Extra examples](https://uomustansiriyah.edu.iq/media/lectures/6/6_2019_01_17!09_24_03_AM.pdf)
-
 * If there is a change in the DNA that causes a change in the significant part of the mRNA codon(s), a different amino acid will be translated, and a different protein will be made.
 	* Usually random changes are **harmful.**
 		* Frequent mutations are lethal.
@@ -56,9 +47,7 @@ _nonsense_ [Extra examples](https://uomustansiriyah.edu.iq/media/lectures/6/6_20
 		* Beneficial mutations, while infrequent, drive the evolution of species.
 	* Occasionally, a mutation will be **neutral.**
 		* No effect on the protein produced, or it will change an amino acid on a non-vital part of the protein.
-		
-![](Genetic%20Mutations%20-%20b13/70C9FEBD-42B9-402E-ACC0-3A12F6AA801C.png)
-_DNA mutation exemple_
+
 - - - -
 ##### sickle cell anemia
 * Gene mutations can cause genetic disorders.

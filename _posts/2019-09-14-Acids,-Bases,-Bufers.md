@@ -28,4 +28,3 @@
 * A buffer is a chemical or combination of chemicals that can take up excess hydrogen ions or excess hydroxide ions.
 	* Buffers resist changes in pH when acid or bases are added.
 - - - -
-

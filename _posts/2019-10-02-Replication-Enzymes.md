@@ -10,7 +10,7 @@
 * **DNA polymerase III** or _DNApIII or DNAp3_
 	* Uses parental DNA as a template, synthesizes new DNA strand by adding nucleotides to the 3’ end of pre-existing DNA strand of RNA primer.
 * **DNA polymerase I** or _DNAp1 or DNAp_
-	* Removes RNA nucleotides of primer from 5’ end and replaces them with DNA nucleotides. Also removes RNA 
+	* Removes RNA nucleotides of primer from 5’ end and replaces them with DNA nucleotides. Also removes RNA
 * **DNA ligase**
 	* Seals any breaks/joins 3’ end of DNA that replaces primer to rest of leading or lagging strand, and joins Okazaki fragments of lagging strand.
 * **Single stranded binding proteins**
@@ -23,29 +23,3 @@
 * DNA polymerase I
 * DNA ligase
 * Single stranded binding protein
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

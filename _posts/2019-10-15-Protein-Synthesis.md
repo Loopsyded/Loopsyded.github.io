@@ -7,17 +7,13 @@
 * This is sometimes summed up as “one gene, one protein."
 * mRNA, once produced, leaves the nucleus through pores in the nuclear envelope, and enters the cytoplasm. This is where translation occurs.
 	* Transcription occurs inside the nucleus, translation occurs outside the nucleus.
-![](Protein%20Synthesis%20and%20Transcription%20-%20b12/process-of-protein-synthesis.jpg)
-_steps of protein synthesis_
+
 - - - -
 ##### translation
 * Translation is the process that changes the RNA message into the actual protein. It occurs at the surface of the **ribosome.**
 * The order of the bases in DNA, and then subsequently mRNA, determines the amino acid sequence of the protein being made.
 * Each amino acid is coded for by 3 bases (this is known as a triplet code).
-![](Protein%20Synthesis%20and%20Transcription%20-%20b12/282fd6184d65eaf8e8284edccf3aa650ad11d774.png)
-_A site is for tRNA_
-_P site is for tRNA_
-_R site for binding mRNA_
+
 - - - -
 * There are 20 different amino acids, but only 4 different bases in DNA/RNA.
 * Each three-letter unit of mRNA is called a **codon.**
@@ -29,8 +25,7 @@ _R site for binding mRNA_
 			* There is no vagueness in the code.
 * The code also contains “punctuation.” It tells when to start reading the gene for a particular protein and when to stop.
 * Each codon corresponds to an amino acid, or a “start” or “stop” synthesis signal. And here it is, the most important chart in all of Biology: **The genetic code.**
-![](Protein%20Synthesis%20and%20Transcription%20-%20b12/3code.gif)
-_genetic code_
+
 * The genetic code is universal.
 	* The same codons stand for the same amino acids in almost all living things.
 	* This **biochemical unity** suggests that all living things have a common evolutionary ancestor.
@@ -70,7 +65,3 @@ _genetic code_
 ##### polysomes
 * Often, many ribosomes will simultaneously translate the same mRNA.
 * In this way, many copies of the same protein can be made quickly. These clusters of ribosomes are called **polysomes.**
-![](Protein%20Synthesis%20and%20Transcription%20-%20b12/BBE48C94-AF15-46A1-B029-A0061BF1D153.png)
-
-
-

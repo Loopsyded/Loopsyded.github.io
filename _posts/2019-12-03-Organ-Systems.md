@@ -8,7 +8,7 @@
 * Cells of similar **shape** and **function** are arranged into **tissues.**
 * Humans have 4 kinds of **tissues.**
 	1. Epithelial
-		* Covers and protects surface. 
+		* Covers and protects surface.
 			* _skin_
 	2. Muscle
 		* Contract to cause movement.
@@ -16,7 +16,7 @@
 				* Striated - lined.
 	3. Nervous
 		* Transmit impulses, carries messages.
-			* _nerve, brain_	
+			* _nerve, brain_
 	4. Connective
 		* Supports and interconnects body structures; transports nutrients.
 			* _bone, cartilage, blood_

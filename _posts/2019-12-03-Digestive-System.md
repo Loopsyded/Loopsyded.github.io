@@ -6,7 +6,7 @@
 ### Digestion
 * The process in which food is broken down, nutrients are absorbed, and wastes eliminated (different from excretion) is called digestion and occurs in the digestive system.
 
-* The four stages of digestion are:	
+* The four stages of digestion are:
 	1. Ingesting
 	2. Digesting
 	3. Absorbing
@@ -23,8 +23,7 @@
 		* **The mouth** - _no need to study_
 			* Receives food, is bounded externally by the lips and cheeks.
 			* Sensory receptors called taste buds occur primarily on the tongue, and when these are activated by the presence of food.
-					* ![](Digestive%20System%20-%20b20/Illu01_head_neck.jpg)
-					_diagram_
+
 		* **The Pharynx**
 			* Between the mouth and esophagus.
 			* Intersection to:
@@ -77,4 +76,4 @@
 3. **Chemical Digestion**
 			* Many different enzymes break down macromolecules to small organic molecules that can be absorbed.
 			* Parts of the digestive tract produce digestive **enzymes** (special proteins that speed up chemical reactions). Each enzyme has a particular job to do.
-4. Absorption: 
+4. Absorption:

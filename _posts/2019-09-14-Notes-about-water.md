@@ -1,4 +1,4 @@
-# Water - b1 
+# Water - b1
 #school/Biology/
 - - - -
 ### Structure, Properties, and Importance
@@ -44,10 +44,7 @@
 	* Small positive charge on the hydrogens.
 	* Small negative charge on the oxygen.
 	* Leads to hydrogen bonding.
-![](Water%20-%20b1/polar-water-molecule.png)
-_polar molecule_
-![](Water%20-%20b1/20140811155258796274.png)
-_hydrogen bonding_
+
 * Hydrogen bonds are weak bonds that are easily broken, but plentiful in number.
 	* Net effect: Water is sticky to itself.
 - - - -
@@ -59,7 +56,7 @@ _hydrogen bonding_
 	* -> This is due to H-bonding
 
 * Water has high cohesiveness
-	* Water molecules tend to cling together and draw dissolved substances along with it. 
+	* Water molecules tend to cling together and draw dissolved substances along with it.
 		* This makes it good for transporting materials through tubes.
 
 * Liquid water is denser than ice because of hydrogen bonding.
@@ -74,4 +71,3 @@ _hydrogen bonding_
 	* _for nerves to transmit_
 	* Ions are formed when ionic substance are dissolved in water.
 - - - -
-

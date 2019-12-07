@@ -1,4 +1,4 @@
-# Organic Chemistry + Organic Compounds - b3 
+# Organic Chemistry + Organic Compounds - b3
 #school/Biology
 - - - -
 ### Organic Chemistry
@@ -26,15 +26,12 @@
 
 * A condensation reaction or more specifically, a **dehydration reaction** occurs when two monomers bond together through the loss of a water molecule.
 
-![](Organic%20Chemistry%20+%20Organic%20Compounds%20-%20b3/Figure_03_01_01.jpg)
-_dehydration reaction_
+
 
 ##### enzymes
 * Macromolecules that speed up the dehydration process.
 * Polymers are disassembled to monomers by hydrolysis, a reaction that is essentially the reverse of the dehydration reaction.
 
-![](Organic%20Chemistry%20+%20Organic%20Compounds%20-%20b3/05_02bPolymers-L.jpg)
-_hydrolysis_
 - - - -
 ### Carbohydrates
 * Include sugars, and polymers of sugars.
@@ -42,7 +39,7 @@ _hydrolysis_
 * Carbohydrate macromolecules are polysaccharides, polymers made of many sugar building blocks.
 
 ##### sugar
-* Monosaccharides have molecular formulas that are usually multiples of 
+* Monosaccharides have molecular formulas that are usually multiples of
 __CH2O__.
 * **Glucose is the most common monosaccharide.**
 	* __C6H12O6__
@@ -50,10 +47,7 @@ __CH2O__.
 	* Ringed when in liquid for many sugars.
 * Monosaccharides serve as a major fuel for cells and as raw materials for building molecules.
 
-![](Organic%20Chemistry%20+%20Organic%20Compounds%20-%20b3/glucose.gif)
-_structural format of glucose_
-![](Organic%20Chemistry%20+%20Organic%20Compounds%20-%20b3/glucose.png)
-_abbreviated structure of glucose_
+
 ##### monosaccharides
 * Simple carbohydrates - One unit molecule.
 	* _glucose, ribose_
@@ -65,7 +59,7 @@ _abbreviated structure of glucose_
 * Formed when dehydration reaction joins two monosaccharides.
 * This covalent bond is a **glycosidic linkage.**
 
-![](Organic%20Chemistry%20+%20Organic%20Compounds%20-%20b3/download.jpg)
+
 _α - 1,4 - glycosidic bond_
 * Common disaccharides:
 	* _glucose + glucose = maltose_

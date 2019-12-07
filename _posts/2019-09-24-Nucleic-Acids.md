@@ -1,4 +1,4 @@
-# Nucleic Acids - b7 
+# Nucleic Acids - b7
 #school/Biology
 - - - -
 ### Types of Nucleic Acids + Structure
@@ -19,16 +19,7 @@
 * The portion of a nucleotide without the phosphate group is called a **nucleoside.**
 * All DNA is assembled in the 5’ 3’ structure.
 
-![](Nucleic%20Acids%20-%20b7/DAMP_chemical_structure.png)
-_nucleotide_
-![](Nucleic%20Acids%20-%20b7/Uridin.svg.png)
-_nucleoside - missing phosphate_
-![](Nucleic%20Acids%20-%20b7/719618-3-11TYUEI1.png)
-_polynucleotide / nucleic acid_
-![](Nucleic%20Acids%20-%20b7/Difference-between-Deoxyribose-and-Ribose.jpg)
-_deoxyribose DNA vs ribose RNA_
-![](Nucleic%20Acids%20-%20b7/All-Purines-Pyrimidines-chemical-structure.png)
-_purines vs pyrimidines_
+_
 ##### anagram for purines vs pyrimidines
 		* _Pure As Gold_
 			* Purines - Adenine - Guanine
@@ -57,10 +48,7 @@ _purines vs pyrimidines_
 	* _muscle contraction, nerve impulse propagation, and chemical synthesis._
 * When consumed in metabolic processes, it converts either to **adenosine diphosphate (ADP)** or to **adenosine monophosphate (AMP).**
 * It is also a precursor to DNA and RNA, and is used as a coenzyme.
-![](Nucleic%20Acids%20-%20b7/1200px-Adenosintriphosphat_protoniert.svg.png)
-_expanded structure of ATP_
-![](Nucleic%20Acids%20-%20b7/article0NOTvaajradorrefer11.jpg)
-_structure of ATP_
+
 - - - -
 ##### nucleotide polymers
 * Nucleotide polymers are linked together to build a polynucleotide.
