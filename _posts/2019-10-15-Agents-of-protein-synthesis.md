@@ -1,3 +1,8 @@
+---
+layout: post
+title: Agents of Protein Synthesis
+categories: [Biology, Notes]
+---
 # rRNA, tRNA, and mRNA - Agents of Protein Synthesis - b11
 #school/Biology
 - - - -

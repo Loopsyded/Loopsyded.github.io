@@ -1,4 +1,9 @@
-# Acids, Bases, Buffers - b2 
+---
+layout: post
+title: Acids, Bases, Buffers
+categories: [Biology, Notes]
+---
+# Acids, Bases, Buffers - b2
 #school/Biology
 - - - -
 ### Acids and Bases

@@ -1,3 +1,8 @@
+---
+layout: post
+title: Regulation of Gene Expression
+categories: [Biology, Notes]
+---
 # Regulation of Gene Expression - b15H
 #school/Biology
 - - - -
@@ -39,7 +44,7 @@
 
 * Inducible enzymes
 	* Enzymes usually function in catabolic pathways; their synthesis is induced by a chemical signal.
-* Repressible enzymes 
+* Repressible enzymes
 	* Usually function in anabolic pathways; their synthesis is repressed by high levels of the end product.
 * Regulation of the _trp_ and _lac_ operons involves negative control of genes because operons are switched off by the active form of the repressor.
 * _Metabolism_

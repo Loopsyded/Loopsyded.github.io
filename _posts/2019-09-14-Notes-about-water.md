@@ -1,3 +1,8 @@
+---
+layout: post
+title: Notes about water
+categories: [Biology, Notes]
+---
 # Water - b1
 #school/Biology/
 - - - -

@@ -1,3 +1,8 @@
+---
+layout: post
+title: Cell Membrane
+categories: [Biology, Notes]
+---
 # The Cell Membrane - b17
 #school/Biology
 - - - -

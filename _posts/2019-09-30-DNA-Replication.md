@@ -1,3 +1,8 @@
+---
+layout: post
+title: DNA Replication
+categories: [Biology, Notes]
+---
 # DNA and Replication - b8
 #school/Biology
 - - - -

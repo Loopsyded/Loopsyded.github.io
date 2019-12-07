@@ -1,3 +1,8 @@
+---
+layout: post
+title: Nucleic Acids
+categories: [Biology, Notes]
+---
 # Nucleic Acids - b7
 #school/Biology
 - - - -

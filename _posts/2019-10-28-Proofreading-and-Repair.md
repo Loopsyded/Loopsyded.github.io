@@ -1,3 +1,8 @@
+---
+layout: post
+title: Proofreading and Repair
+categories: [Biology, Notes]
+---
 # Proofreading and Repairing DNA - b14
 #school/Biology
 - - - -

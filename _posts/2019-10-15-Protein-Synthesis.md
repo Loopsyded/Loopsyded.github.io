@@ -1,3 +1,8 @@
+---
+layout: post
+title: Protein Synthesis
+categories: [Biology, Notes]
+---
 # Protein Synthesis and Transcription - b12
 #school/Biology
 - - - -

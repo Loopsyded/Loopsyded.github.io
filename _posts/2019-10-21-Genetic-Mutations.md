@@ -1,3 +1,8 @@
+---
+layout: post
+title: Genetic Mutations
+categories: [Biology, Notes]
+---
 # Genetic Mutations - b13
 #school/Biology
 

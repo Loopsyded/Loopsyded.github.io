@@ -1,3 +1,8 @@
+---
+layout: post
+title: RNA Transcription
+categories: [Biology, Notes]
+---
 # RNA and Transcription - b10
 #school/Biology
 - - - -

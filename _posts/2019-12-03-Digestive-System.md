@@ -1,3 +1,8 @@
+---
+layout: post
+title: Digestive Systems
+categories: [Biology, Notes]
+---
 # Digestive System - b20
 #school/Biology
 - - - -

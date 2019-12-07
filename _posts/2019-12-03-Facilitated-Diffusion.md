@@ -1,3 +1,8 @@
+---
+layout: post
+title: Facilitated Diffusion
+categories: [Biology, Notes]
+---
 # Facilitated Diffusion: Passive transport Aided by Proteins - b18
 #school/Biology
 - - - -
