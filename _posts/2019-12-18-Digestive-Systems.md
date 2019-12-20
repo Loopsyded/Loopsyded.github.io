@@ -1,12 +1,16 @@
+---
+layout: post
+title: Digestive System
+categories: [Biology, Notes]
+---
 # Digestive System - b20
-#school/Biology
 - - - -
 ##### chapter 12
 - - - -
 ### Digestion
 * The process in which food is broken down, nutrients are absorbed, and wastes eliminated (different from excretion) is called digestion and occurs in the digestive system.
 
-* The four stages of digestion are:	
+* The four stages of digestion are:
 	1. Ingesting
 	2. Digesting
 	3. Absorbing
@@ -23,8 +27,7 @@
 		* **The mouth** - _no need to study_
 			* Receives food, is bounded externally by the lips and cheeks.
 			* Sensory receptors called taste buds occur primarily on the tongue, and when these are activated by the presence of food.
-					* ![](Digestive%20System%20-%20b20/Illu01_head_neck.jpg)
-					_diagram_
+
 		* **The Pharynx**
 			* Between the mouth and esophagus.
 			* Intersection to:
@@ -115,11 +118,11 @@
 ### The Small Intestine
 * Small in diameter (2.5cm wide) hence the name, but is about 6 m long (duodenum - 25 cm, jejunum - 2m long, ileum - 3m)
 	* First part is called duodenum, where most of digestion occurs.
-	
+
 * Most important site of:
 	* **Digestion**
 	* **Absorption**
-	
+
 * The surface area of the small intestine has been compared to that of a tennis court.
 	* The wall of the small intestine contains finger-like projections called **villi** (sing. _villus_), which give the intestinal wall a soft, velvety appearance.
 
@@ -154,7 +157,7 @@
 		* _feces_
 	* Absorption of certain vitamins.
 	* Feces also contains bile pigments, heavy metals, and billions of E. coli. While there is question that they are parasites, they provide a valuable service for us. These bacteria breakdown some indigestible food, and in the process produce some vitamins, amino acids, and other growth factors that arena turn absorbed by the colon.
-	* 
+	*
 - - - -
 ### Peristalsis
 * **Peristalsis** is the rhythmic contraction that pushes the food along the digestive tract.
@@ -164,4 +167,4 @@
 3. **Chemical Digestion**
 			* Many different enzymes break down macromolecules to small organic molecules that can be absorbed.
 			* Parts of the digestive tract produce digestive **enzymes** (special proteins that speed up chemical reactions). Each enzyme has a particular job to do.
-4. Absorption: 
+4. Absorption:
