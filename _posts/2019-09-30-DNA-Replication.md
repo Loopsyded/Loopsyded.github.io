@@ -1,9 +1,9 @@
 ---
 layout: post
-title: DNA Replication
+title: b8
 categories: [Biology, Notes]
 ---
-# DNA and Replication - b8
+# DNA and Replication
 #school/Biology
 - - - -
 ### DNA

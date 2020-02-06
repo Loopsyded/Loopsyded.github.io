@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Cell Membrane
+title: b17
 categories: [Biology, Notes]
 ---
-# The Cell Membrane - b17
+# The Cell Membrane
 #school/Biology
 - - - -
 * The cell membrane is the **gateway into the cell,** and must allow needed things such as **nutrients** into the cell without letting them escape. In the same way, it must allow **wastes** to leave the cell.

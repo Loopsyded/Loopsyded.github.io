@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Agents of Protein Synthesis
+title: b11
 categories: [Biology, Notes]
 ---
-# rRNA, tRNA, and mRNA - Agents of Protein Synthesis - b11
+# rRNA, tRNA, and mRNA - Agents of Protein Synthesis
 #school/Biology
 - - - -
 * RNA that is involved in protein synthesis belongs to one of three distinct types:

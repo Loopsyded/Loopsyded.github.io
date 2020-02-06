@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Protein Synthesis
+title: b12
 categories: [Biology, Notes]
 ---
-# Protein Synthesis and Transcription - b12
+# Protein Synthesis and Transcription
 #school/Biology
 - - - -
 ### The Central Dogma of Molecular Biology

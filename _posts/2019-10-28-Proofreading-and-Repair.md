@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Proofreading and Repair
+title: b14
 categories: [Biology, Notes]
 ---
-# Proofreading and Repairing DNA - b14
+# Proofreading and Repairing DNA
 #school/Biology
 - - - -
 * DNA polymerases proofread newly made DNA, replacing any incorrect nucleotides.

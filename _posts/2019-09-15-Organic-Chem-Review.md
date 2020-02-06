@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Organic Chem Review
+title: b3
 categories: [Biology, Notes]
 ---
-# Organic Chemistry + Organic Compounds - b3
+# Organic Chemistry + Organic Compounds
 #school/Biology
 - - - -
 ### Organic Chemistry

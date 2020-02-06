@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blood Pressure Diseases
+title: b25
 categories: [Biology, Notes]
 ---
 # Blood Pressure Diseases - b25

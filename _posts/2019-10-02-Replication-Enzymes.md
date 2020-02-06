@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Replication Enzymes
+title: b9
 categories: [Biology, Notes]
 ---
-# Enzymes Responsible for Replication - b9
+# Enzymes Responsible for Replication
 #school/Biology
 - - - -
 * **Helicases**

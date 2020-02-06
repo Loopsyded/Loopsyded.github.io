@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NACTF Solutions
+title: NACTF
 categories: [CTF, writeup]
 ---
 # NACTF Solution

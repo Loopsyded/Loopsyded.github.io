@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Control of the Digestive Gland Secretion
+title: b21
 categories: [Biology, Notes]
 ---
-# Control of Digestive Gland Secretion -b21
+# Control of Digestive Gland Secretion
 #school/Biology
 - - - -
 * General speaking, **the presence of food** in digestive system triggers digestive glands to secrete their enzymes.

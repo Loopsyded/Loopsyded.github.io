@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Digestive System
+title: b20
 categories: [Biology, Notes]
 ---
-# Digestive System - b20
+# Digestive System
 - - - -
 ##### chapter 12
 - - - -

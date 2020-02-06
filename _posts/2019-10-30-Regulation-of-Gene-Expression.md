@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Regulation of Gene Expression
+title: b15--H
 categories: [Biology, Notes]
 ---
-# Regulation of Gene Expression - b15H
+# Regulation of Gene Expression
 #school/Biology
 - - - -
 ###### for AP

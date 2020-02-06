@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Notes about water
+title: b1
 categories: [Biology, Notes]
 ---
-# Water - b1
+# Water
 #school/Biology/
 - - - -
 ### Structure, Properties, and Importance

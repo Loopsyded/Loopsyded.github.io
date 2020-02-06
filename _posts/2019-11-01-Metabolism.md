@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Metabolism
+title: b15
 categories: [Biology, Notes]
 ---
-# Metabolism - b15
+# Metabolism
 #school/Biology
 - - - -
 ### An Introduction to Metabolism - The Energy of Life

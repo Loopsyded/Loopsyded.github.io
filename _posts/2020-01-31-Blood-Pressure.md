@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Blood Pressure
+title: b24
 categories: [Biology, Notes]
 ---
-# Blood Pressure -b24
+# Blood Pressure
 #school/Biology
 - - - -
 * **Pulse**

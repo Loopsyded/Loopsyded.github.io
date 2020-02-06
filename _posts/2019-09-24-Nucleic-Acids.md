@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Nucleic Acids
+title: b7
 categories: [Biology, Notes]
 ---
-# Nucleic Acids - b7
+# Nucleic Acids
 #school/Biology
 - - - -
 ### Types of Nucleic Acids + Structure

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Organ Systems
+title: b19
 categories: [Biology, Notes]
 ---
-# Introduction to Organ Systems - b19
+# Introduction to Organ Systems
 #school/Biology
 - - - -
 * Many types of cells but each does a specific job.

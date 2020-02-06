@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Cardiovascular System
+title: b22
 categories: [Biology, Notes]
 ---
-# Cardiovascular System -b22
+# Cardiovascular System
 #school/Biology
 - - - -
 ### Blood Vessels

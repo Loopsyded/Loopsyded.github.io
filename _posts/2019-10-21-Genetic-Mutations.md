@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Genetic Mutations
+title: b13
 categories: [Biology, Notes]
 ---
-# Genetic Mutations - b13
+# Genetic Mutations
 #school/Biology
 
 - - - -

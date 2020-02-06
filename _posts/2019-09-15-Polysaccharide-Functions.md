@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Polysaccharide Functions
+title: b4
 categories: [Biology, Notes]
 ---
-# Polysaccharide Functions - b4
+# Polysaccharide Functions
 #school/Biology
 - - - -
 ### Functions
