@@ -3,7 +3,7 @@ layout: post
 title: b25
 categories: [Biology, Notes]
 ---
-# Blood Pressure Diseases - b25
+# Blood Pressure Diseases
 #school/Biology
 - - - -
 * **Hypotension**
